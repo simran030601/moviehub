@@ -17,6 +17,12 @@ The movie recommendation app will provide all the details of the searched movie 
 
 To run app, first you need to install following packages
 
+Clone the repository in the local system by hitting the command: 
+
+```bash
+   git clone "https://github.com/simran030601/moviehub.git"
+```
+
 First you need to install [python](https://www.python.org/downloads/)  in the system. 
 check the pip version by running the command 
 ```bash
