@@ -18,7 +18,7 @@ The movie recommendation app will provide all the details of the searched movie 
 To run app, first you need to install following packages
 
 First you need to install [python](https://www.python.org/downloads/)  in the system. 
-check the pip version by running the coomad 
+check the pip version by running the command 
 ```bash
   pip --version
 ```
